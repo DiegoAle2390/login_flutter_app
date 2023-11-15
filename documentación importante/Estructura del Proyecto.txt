@@ -1,0 +1,19 @@
+Estructura del Proyecto
+
+
+assets
+lib
+    src
+        common
+        constants
+        exceptions
+        features (características)
+            authentication
+                controllers
+                models
+                screens
+        localization
+        routing
+        utils
+    main.dart
+packages
